@@ -1,2 +1,2 @@
-# TBCodeEvents
-Azure Eventhub dev examples
+ # TBCodeEvents
+Azure Eventhub dev examples to send and receive messages
