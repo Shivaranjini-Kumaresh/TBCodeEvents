@@ -1,0 +1,49 @@
+
+/target/
+
+target/
+.target
+
+# Eclipse core
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.recommenders/
+.metadata/
+
+# Java annotation processor (APT)
+.factorypath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# Eclipse Java Dev Tools
+.classpath
+
+# jvm crash logs
+hs_err_pid*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
